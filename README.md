@@ -48,3 +48,7 @@ The program prints the accuracy of the model on the test data.
 
 How to Run
 Ensure that train-mails and test-mails folders are at the same location with the notebook.
+
+Contributors
+- Sude Ademogullari
+- Sadaf Sarbazi
